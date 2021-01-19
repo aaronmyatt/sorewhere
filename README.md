@@ -1,3 +1,5 @@
+[![PDD status](http://www.0pdd.com/svg?name=aaronmyatt/sorewhere)](http://www.0pdd.com/p?name=aaronmyatt/sorewhere)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
